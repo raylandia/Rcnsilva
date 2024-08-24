@@ -17,7 +17,7 @@ Olá, bem vindo ao meu perfil!
 </div>
 
 <div align="center" style="width: 100%, display: flex">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylandia&layout=compact&theme=radical" alt="GitHub Status" style="height: 195px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raylandia&layout=compact&theme=radical" alt="GitHub Status" style="height: 185px"/>
     <img src="https://github-readme-stats.vercel.app/api?username=raylandia&show_icons=true&theme=radical" alt="GitHub Status"/>
 </div>
 <p></p>
